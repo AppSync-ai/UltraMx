@@ -22,8 +22,19 @@ com/mt/lamdatrack/Rate/select/package-info.java
  com.mt.lamdatrack.Rate.select.package-info
 com/mt/lamdatrack/Rate/nodes/NodeUtils.java
  com.mt.lamdatrack.Rate.nodes.NodeUtils
+com/mt/lamdatrack/BuildConfig.java
+ com.mt.lamdatrack.BuildConfig
 com/mt/lamdatrack/Rate/parser/Tag.java
  com.mt.lamdatrack.Rate.parser.Tag
+com/mt/lamdatrack/Rate/select/StructuralEvaluator.java
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator$Has
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator$ImmediateParent
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator$ImmediatePreviousSibling
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator$Not
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator$Parent
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator$PreviousSibling
+ com.mt.lamdatrack.Rate.select.StructuralEvaluator$Root
 com/mt/lamdatrack/Rate/Connection.java
  com.mt.lamdatrack.Rate.Connection
  com.mt.lamdatrack.Rate.Connection$Base
@@ -131,6 +142,8 @@ com/mt/lamdatrack/Rate/parser/HtmlTreeBuilderState.java
  com.mt.lamdatrack.Rate.parser.HtmlTreeBuilderState$8
  com.mt.lamdatrack.Rate.parser.HtmlTreeBuilderState$9
  com.mt.lamdatrack.Rate.parser.HtmlTreeBuilderState$Constants
+com/mt/lamdatrack/Rate/UncheckedIOException.java
+ com.mt.lamdatrack.Rate.UncheckedIOException
 com/mt/lamdatrack/Rate/internal/RatesJson.java
  com.mt.lamdatrack.Rate.internal.RatesJson
  com.mt.lamdatrack.Rate.internal.RatesJson$RatesData
@@ -151,8 +164,12 @@ com/mt/lamdatrack/Rate/nodes/ForexRates.java
  com.mt.lamdatrack.Rate.nodes.ForexRates
  com.mt.lamdatrack.Rate.nodes.ForexRates$JFHSDJKFNSJFNSDJFNSDUIFHERUIFHERUFHER7U8FH7ERHF7ERYF798ERYF798ERF7EWRHFUIHRNB43UIR3UIRHNUIRN4UIR43
  com.mt.lamdatrack.Rate.nodes.ForexRates$Rates
+com/mt/lamdatrack/Rate/UnsupportedMimeTypeException.java
+ com.mt.lamdatrack.Rate.UnsupportedMimeTypeException
 com/mt/lamdatrack/Rate/select/Elements.java
  com.mt.lamdatrack.Rate.select.Elements
+com/mt/lamdatrack/Rate/SerializationException.java
+ com.mt.lamdatrack.Rate.SerializationException
 com/mt/lamdatrack/Rate/nodes/PseudoTextElement.java
  com.mt.lamdatrack.Rate.nodes.PseudoTextElement
 com/mt/lamdatrack/Rate/parser/Parser.java
@@ -181,6 +198,8 @@ com/mt/lamdatrack/Rate/parser/package-info.java
  com.mt.lamdatrack.Rate.parser.package-info
 com/mt/lamdatrack/Rate/internal/TypeQualifierDefault.java
  com.mt.lamdatrack.Rate.internal.TypeQualifierDefault
+com/mt/lamdatrack/Rate/select/NodeTraversor.java
+ com.mt.lamdatrack.Rate.select.NodeTraversor
 com/mt/lamdatrack/Rate/internal/NonnullByDefault.java
  com.mt.lamdatrack.Rate.internal.NonnullByDefault
 com/mt/lamdatrack/Rate/nodes/Document.java
@@ -215,6 +234,8 @@ com/mt/lamdatrack/Rate/nodes/Entities.java
  com.mt.lamdatrack.Rate.nodes.Entities$1
  com.mt.lamdatrack.Rate.nodes.Entities$CoreCharset
  com.mt.lamdatrack.Rate.nodes.Entities$EscapeMode
+com/mt/lamdatrack/Rate/select/QueryParser.java
+ com.mt.lamdatrack.Rate.select.QueryParser
 com/mt/lamdatrack/Rate/safety/Cleaner.java
  com.mt.lamdatrack.Rate.safety.Cleaner
  com.mt.lamdatrack.Rate.safety.Cleaner$1
@@ -278,6 +299,9 @@ com/mt/lamdatrack/Rate/HttpStatusException.java
  com.mt.lamdatrack.Rate.HttpStatusException
 com/mt/lamdatrack/Rate/internal/idjsidjsdsidniu3284re328r328r.java
  com.mt.lamdatrack.Rate.internal.idjsidjsdsidniu3284re328r328r
+com/mt/lamdatrack/Rate/select/Selector.java
+ com.mt.lamdatrack.Rate.select.Selector
+ com.mt.lamdatrack.Rate.select.Selector$SelectorParseException
 com/mt/lamdatrack/Rate/select/NodeFilter.java
  com.mt.lamdatrack.Rate.select.NodeFilter
  com.mt.lamdatrack.Rate.select.NodeFilter$FilterResult
