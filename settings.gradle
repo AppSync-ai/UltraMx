@@ -1,0 +1,3 @@
+include ':LamdaTrack'
+include ':app'
+rootProject.name = "UltraMx"
