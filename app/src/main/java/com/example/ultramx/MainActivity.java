@@ -1,6 +1,7 @@
 package com.example.ultramx;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -13,6 +14,8 @@ import java.util.ArrayList;
 import static android.util.Log.wtf;
 
 public class MainActivity extends AppCompatActivity implements ForexRates.Rates {
+
+    RecyclerView recycler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
