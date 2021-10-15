@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/AndroidStudioProjects/VedBrothersSmsApp/UltraMx/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.14375" />
+        <entry key="..\:/Projects/AndroidStudioProjects/VedBrothersSmsApp/UltraMx/app/src/main/res/drawable/rounded_dialog.xml" value="0.28958333333333336" />
         <entry key="..\:/Projects/AndroidStudioProjects/VedBrothersSmsApp/UltraMx/app/src/main/res/layout/activity_main.xml" value="0.2734375" />
+        <entry key="..\:/Projects/AndroidStudioProjects/VedBrothersSmsApp/UltraMx/app/src/main/res/layout/single_rate.xml" value="0.2734375" />
       </map>
     </option>
   </component>
