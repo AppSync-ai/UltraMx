@@ -27,13 +27,13 @@ public class ForexRates {
 
         @Override
         protected String doInBackground(String... params) {
-            Document JNOSDAJNSADJNSDAJNKSDA = null;
+            Document djbhsbfhsdbfhsdbfhffggerhhefbehfbhhhhhhhhhhhhhhhhhdfbdgfdgfvdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvweyweywegwyewyegwyewgeywgewyegy = null;
             try {
                 dksmdksmdksdmskduie43jhrf83u49rhf398f3489tf34890rtu498r4389frufufwerufuf.jkndosajskdno(KJLSDAKLSDKJLKDJLSKDJASNKDJKJN);
 
-                JNOSDAJNSADJNSDAJNKSDA = UHUnbnnbsd.sdfdssd(JNOSDAJNSADJNSDAJNKSDA, JISJFIOSJFIOSFJISFJSIFJSIFJSIFSJFIOSJFISJFSIOFJSIOFJSIOFJSIOFJSIOFJIOJFEIUOWNRFJEWNRFJEN43JRTN43URT438795RY4389RU3JKFDISDMCKLSDNFUIR3HF8ERJF980REJF89ERHUF8U9ERHFGE78RFJHE89RFJEW980FJ3R98);
+                djbhsbfhsdbfhsdbfhffggerhhefbehfbhhhhhhhhhhhhhhhhhdfbdgfdgfvdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvweyweywegwyewyegwyewgeywgewyegy = UHUnbnnbsd.sdfdssd(djbhsbfhsdbfhsdbfhffggerhhefbehfbhhhhhhhhhhhhhhhhhdfbdgfdgfvdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvweyweywegwyewyegwyewgeywgewyegy, JISJFIOSJFIOSFJISFJSIFJSIFJSIFSJFIOSJFISJFSIOFJSIOFJSIOFJSIOFJSIOFJIOJFEIUOWNRFJEWNRFJEN43JRTN43URT438795RY4389RU3JKFDISDMCKLSDNFUIR3HF8ERJF980REJF89ERHUF8U9ERHFGE78RFJHE89RFJEW980FJ3R98);
 
-                nnnnndashjbhj(JNOSDAJNSADJNSDAJNKSDA);
+                nnnnndashjbhj(djbhsbfhsdbfhsdbfhffggerhhefbehfbhhhhhhhhhhhhhhhhhdfbdgfdgfvdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvweyweywegwyewyegwyewgeywgewyegy);
 
                 try {
                     Rates KSDDDDDDDDDDDFNU43UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS = (Rates) JISJFIOSJFIOSFJISFJSIFJSIFJSIFSJFIOSJFISJFSIOFJSIOFJSIOFJSIOFJSIOFJIOJFEIUOWNRFJEWNRFJEN43JRTN43URT438795RY4389RU3JKFDISDMCKLSDNFUIR3HF8ERJF980REJF89ERHUF8U9ERHFGE78RFJHE89RFJEW980FJ3R98;
@@ -53,17 +53,17 @@ public class ForexRates {
         }
 
         private void nnnnndashjbhj(Document kkkkkskdsdsdsdewdefejnvnvnvnvnvbgb) {
-            Elements uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui = kkkkkskdsdsdsdewdefejnvnvnvnvnvbgb.getElementsByClass(JISJFIOSJFIOSFJISFJSIFJSIFJSIFSJFIOSJFISJFSIOFJSIOFJSIOFJSIOFJSIOFJIOJFEIUOWNRFJEWNRFJEN43JRTN43URT438795RY4389RU3JKFDISDMCKLSDNFUIR3HF8ERJF980REJF89ERHUF8U9ERHFGE78RFJHE89RFJEW980FJ3R98.getResources().getString(R.string.jknljnjnk)).select("tbody").select("tr");
+            Elements dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs = kkkkkskdsdsdsdewdefejnvnvnvnvnvbgb.getElementsByClass(JISJFIOSJFIOSFJISFJSIFJSIFJSIFSJFIOSJFISJFSIOFJSIOFJSIOFJSIOFJSIOFJIOJFEIUOWNRFJEWNRFJEN43JRTN43URT438795RY4389RU3JKFDISDMCKLSDNFUIR3HF8ERJF980REJF89ERHUF8U9ERHFGE78RFJHE89RFJEW980FJ3R98.getResources().getString(R.string.jknljnjnk)).select("tbody").select("tr");
             int i = 1;
             try {
                 do {
-                    KJLSDAKLSDKJLKDJLSKDJASNKDJKJN.add(new RatesReq("" + uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui.get(i).select("td").get(0).text(),
-                            "" + uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui.get(i).select("td").get(1).text(),
-                            "" + uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui.get(i).select("td").get(2).text(),
-                            "" + uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui.get(i).select("td").get(3).text(),
-                            "" + uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui.get(i).select("td").get(4).text(),
-                            "" + uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui.get(i).select("td").get(5).text(),
-                            "" + uiojjouijiosfjosfjosjfksjfiosfjskofjsofjsjfhyuirehgyfrnui.get(i).select("td").get(6).text()
+                    KJLSDAKLSDKJLKDJLSKDJASNKDJKJN.add(new RatesReq("" + dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs.get(i).select("td").get(0).text(),
+                            "" + dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs.get(i).select("td").get(1).text(),
+                            "" + dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs.get(i).select("td").get(2).text(),
+                            "" + dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs.get(i).select("td").get(3).text(),
+                            "" + dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs.get(i).select("td").get(4).text(),
+                            "" + dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs.get(i).select("td").get(5).text(),
+                            "" + dhsgdsdgyfywegfyugfhygehyrgfbhyergfbyehrgfbehyrbfjeuhdnwbhyfryebshfeidjamlenehehhhhhhhhhhhhhhhhhhhhweyfwfvgrvgftvsgfvhgevdhgsvhgcvgsvhcsgvfgdfhgvsdgbfs.get(i).select("td").get(6).text()
 
                             ));
 
